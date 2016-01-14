@@ -5,10 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JMcKinney.Pdf.Api.Net")]
+[assembly: AssemblyTitle("JMcKinney.Pdf.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("JMcKinney.Pdf.Api.Net")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("JMcKinney.Pdf.Console")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -17,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3425c6a7-cd71-4d56-a1e3-8637c5b99360")]
+[assembly: Guid("fb87391b-4a0c-45a7-b5d7-1eeb15258540")]
 
 // Version information for an assembly consists of the following four values:
 //
