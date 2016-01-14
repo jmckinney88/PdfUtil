@@ -1,0 +1,15 @@
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\PdfUtil\bin\Debug\PdfUtil.exe.config
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\bin\Debug\PdfUtil.exe.config
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\bin\Debug\PdfUtil.exe
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\bin\Debug\PdfUtil.pdb
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil.csprojResolveAssemblyReference.cache
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\MainWindow.g.cs
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\App.g.cs
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil_MarkupCompile.cache
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil_MarkupCompile.lref
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\MainWindow.baml
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil.g.resources
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil.Properties.Resources.resources
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil.csproj.GenerateResource.Cache
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil.exe
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\obj\Debug\PdfUtil.pdb

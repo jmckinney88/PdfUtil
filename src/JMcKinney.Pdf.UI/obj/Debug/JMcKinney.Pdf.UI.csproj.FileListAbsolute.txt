@@ -1,0 +1,3 @@
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\JMcKinney.Pdf.UI\bin\Debug\PdfUtil.exe.config
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\JMcKinney.Pdf.UI\obj\Debug\PdfUtil.exe
+C:\Users\JMcKinney\Documents\Projects\Git\PdfUtil\src\JMcKinney.Pdf.UI\obj\Debug\PdfUtil.pdb
